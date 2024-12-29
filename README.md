@@ -9,6 +9,11 @@
 =?> x = x + 1 = x +2 =....= x+n
 
 => lim x=> n n = 2n = 0 = n 
+
+=> x = x + 1 = x +2 =....= x 
+
+=> x = infinity 
+
    
 FML
 
