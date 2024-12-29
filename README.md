@@ -170,6 +170,8 @@ Después de ejecutar las consultas, podrás explorar el grafo y ver cómo cada c
 
 ### **Conclusión**
 
+ｉｍａｇｉｎｅ　ｙｏｕ　ｏｎｌｙ　ｏｗｅ　－１／１２
+
 Este modelo demuestra cómo puedes utilizar **Cypher** para representar información detallada sobre un tema específico en español, utilizando etiquetas y propiedades en tu idioma. Esto facilita la comprensión y el mantenimiento de la base de datos, especialmente cuando se trabaja en entornos donde el español es el idioma principal.
 
 Si tienes alguna pregunta adicional o necesitas más ejemplos sobre cómo modelar datos en Cypher utilizando español, ¡no dudes en preguntar!
